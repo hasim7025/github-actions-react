@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://hasim7025.github.io/github-actions-with-react",
   "scripts": {
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d .next",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
